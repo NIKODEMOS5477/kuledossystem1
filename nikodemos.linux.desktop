@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Name=nikodemos
+Comment=Web App
+Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="/home/abdur/Downloads/th-1611308486.png" firefox --class WebApp-nikodemos8064 --profile /home/abdur/.local/share/ice/firefox/nikodemos8064 --no-remote "https://nikodemos13mckteam.wixsite.com/login"'
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/abdur/Downloads/th-1611308486.png
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-nikodemos8064
+StartupNotify=true
+X-WebApp-Browser=Firefox
+X-WebApp-URL=https://nikodemos13mckteam.wixsite.com/login
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true
+
